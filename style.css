@@ -6,9 +6,11 @@
     --branco: #FFFFFF;
 }
 
-body{	
-	background-color: #305050;
-	color: white;
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
 }
 
 h2{	
