@@ -1,4 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+
+:root {
+    --cor-de-fundo: #1E1E1E;
+    --verde: #6FFF57;
+    --branco: #FFFFFF;
+}
+
 body{	
 	background-color: #305050;
 	color: white;
+}
+
+h2{	
+	font-size: 35px;
+}
+.titulos{	
+	font-size: 35px;
+}
+#titulo{	
+	font-size: 35px;
 }
